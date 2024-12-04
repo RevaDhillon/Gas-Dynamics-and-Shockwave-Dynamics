@@ -1,4 +1,3 @@
-#Assignment 3: Using shock polar solutions, find the flow deflection angle beta at the trailing edge of a symmetric diamond airfoil for angles of attack (0, 5, 10, -5, -10). theta=10 degrees.
 
 import sympy as sym
 import numpy as np
