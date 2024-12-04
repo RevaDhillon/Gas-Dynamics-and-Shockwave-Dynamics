@@ -1,5 +1,3 @@
-#Assignment 1: Transition line algorithm:
-
 import sympy as sym
 import numpy as np
 import matplotlib
